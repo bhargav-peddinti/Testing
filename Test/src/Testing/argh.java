@@ -16,6 +16,8 @@ public class argh {
 		
 		driver.close();
 		
+		driver.quit();
+		
 		
 		
 		
